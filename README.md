@@ -1,4 +1,4 @@
-#### 												EE_234 **Microprocessor Systems**
+### EE_234 **Microprocessor Systems**
 
 - An introduction to microprocessor using ARM assembly language and C/C++ code. This repository uses to keep tracking of the EE_234 Microprocessor System Labs & Project. Do not use these codes dishonestly.
 
@@ -10,15 +10,15 @@
 
   
 
-##### LAB 1: LED Control
+#### LAB 1: LED Control
 
-- ###### Project1_1:
+- ##### Project1_1:
 
   - Control the LEDs (LD0 - LD3) use the four switches (SW0 - SW3)
   - Turn on the LEDs# if SW# is OFF
   - Turn off LEDs# if SW#is ON
 
-- ###### Project1_2:
+- ##### Project1_2:
 
   - Control the RGB LED (LD4) use the four switches (SW0 - SW3)
   - Highest Priority: if SW3 is ON, LD4 is off.
@@ -28,7 +28,7 @@
     - Turn the B On/Off if SW2 is On/Off
   - Design Specifications: Do not use branch instructions, use onlt arithmetic, logical, shift, and memory instructions.
 
-- ###### Project1_3:
+- ##### Project1_3:
 
   - Control the seven-segment display (7_seg) use the push button BTN0
   - Initial Stage: 7-seg[0] = 0
@@ -40,15 +40,15 @@
 
   
 
-##### LAB 2: Debounce & PWM ControlLAB 3: Stop Watch 
+#### LAB 2: Debounce & PWM ControlLAB 3: Stop Watch 
 
-##### LAB 3: Stop Watch 
+#### LAB 3: Stop Watch 
 
-##### LAB 4: Interrupts
+#### LAB 4: Interrupts
 
 
 
-##### Project: Matrix Multiplication
+#### Project: Matrix Multiplication
 
 
 
