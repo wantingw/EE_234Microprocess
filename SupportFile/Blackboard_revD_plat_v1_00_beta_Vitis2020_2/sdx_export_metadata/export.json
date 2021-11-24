@@ -1,0 +1,11 @@
+{
+  "version": "2020.2",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "blackboard_bist"
+    }
+  ],
+  "systems": [],
+  "others": []
+}
