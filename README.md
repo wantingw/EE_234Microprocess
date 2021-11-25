@@ -31,9 +31,17 @@
 - ##### Project1_3:
 
   - Control the seven-segment display (7_seg) use the push button BTN0
+
   - Initial Stage: 7-seg[0] = 0
+
   - If BTN0 is pushed, increase 7-seg[0] by 1.
+
   - If 7-seg[0] is 'A' and the BTN0 is pushed, clear the 7-seg[0] back to 0.
+
+  - Input Button Edge Detection:
+
+    <img src="https://github.com/wantingw/Storage/blob/master/edge_detecr.jpeg?raw=true" alt="edge_detecr.jpeg" style="zoom:50%;" />
+
   - Design Specifications: Do not use branch instructions, use onlt arithmetic, logical, shift, and memory instructions.
 
   ---
