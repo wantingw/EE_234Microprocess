@@ -8,6 +8,20 @@
 
   ---
 
+  ### Contents
+  
+  - ##### LAB 1: LED Control
+  
+  - ##### LAB 2: Debounce & PWM Control
+  
+  - ##### LAB 3: Stop Watch 
+  
+  - ##### LAB 4: Interrupts
+  
+  - #### Project: Matrix Multiplication
+  
+  ---
+  
   
 
 #### LAB 1: LED Control
@@ -48,7 +62,7 @@
 
   
 
-#### LAB 2: Debounce & PWM ControlLAB 3: Stop Watch 
+#### LAB 2: Debounce & PWM Control
 
 - ##### Project 2_1: Debounce
 
