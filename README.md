@@ -10,15 +10,15 @@
 
   ### Contents
   
-  - ##### LAB 1: LED Control
+  - ##### [LAB 1: LED Control](#LAB 1: LED Control)
   
-  - ##### LAB 2: Debounce & PWM Control
+  - ##### [LAB 2: Debounce & PWM Control](#LAB 2: Debounce & PWM Control)
   
-  - ##### LAB 3: Stop Watch 
+  - ##### [LAB 3: Stop Watch](#LAB 3: Stop Watch )
   
-  - ##### LAB 4: Interrupts
+  - ##### [LAB 4: Interrupts](#LAB 4: Interrupts)
   
-  - #### Project: Matrix Multiplication
+  - #### [Project: Matrix Multiplication](#Project: Matrix Multiplication)
   
   ---
   
